@@ -31,7 +31,7 @@ The project concludes that by analyzing hotel bookings data and understanding ca
 *   Resort Hotel has slightly more repeated guests over City Hotel this could be because of less waiting time in Resort Hotel and better service there because of less rush.
 *   City Hotel generates more revenue in May months in comparison to other months.
 *   Resort Hotel generates more revenue in between July and August months.
-*   GDS has contributed more in generating the ADR. 
+*   GDS has contributed more in generating the ADR
 *   lead_time and total_stay is positively corelated. that means if customers stay more then the lead time increases.
 *   adults,childrens and babies are corelated to each other. That means more the people more will be adr.
 *   is_repeated guest and previous bookings not canceled has strong corelation. That means repeated guests don't cancel their bookings.
